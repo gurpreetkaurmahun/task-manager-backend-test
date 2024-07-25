@@ -1,0 +1,11 @@
+# Build Folders
+bin/
+obj/
+
+# Visual Studio Code
+.vscode/
+.history/
+
+# macOS-specific files
+.DS_Store
+
